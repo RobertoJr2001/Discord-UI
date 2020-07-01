@@ -4,7 +4,9 @@ import { Grid } from './style';
 
 const Layout: React.FC = () => {
   return (
-    <Grid />
+    <Grid>
+      
+    </Grid>
   );
 };
 
