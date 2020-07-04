@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { Container, Separator } from './style';
+import { ServerButton } from '../serverButton/index';
 
 const ServerList: React.FC = () => {
   return (
